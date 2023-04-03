@@ -5,7 +5,7 @@ import { ThemeSwitcher } from '@/components/general/header/theme-switcher';
 export const Header: React.FC<THeader> = ({ theme, handleThemeChange }) => {
   return (
     <header>
-      <div className="mx-auto max-w-5xl px-2 md:px-0">
+      <div className="mx-auto max-w-5xl px-3">
         <div className="flex flex-col items-start gap-3 py-4">
           <Link className="text-xl font-bold md:text-2xl" href="/">
             💻 Amir Azmi
