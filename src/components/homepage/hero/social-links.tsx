@@ -12,28 +12,28 @@ export default function SocialLinks() {
       <Link
         href="https://www.linkedin.com/in/m-amirazmi/"
         target="_blank"
-        className="btn-ghost btn-md btn text-lg"
+        className="btn-outline btn-sm btn text-sm md:btn-md md:text-lg"
       >
         <FaLinkedinIn />
       </Link>
       <Link
         href="https://github.com/m-amirazmi"
         target="_blank"
-        className="btn-ghost btn-md btn text-lg"
+        className="btn-outline btn-sm btn text-sm md:btn-md md:text-lg"
       >
         <FaGithubAlt />
       </Link>
       <Link
         href="https://wa.me/601119821105"
         target="_blank"
-        className="btn-ghost btn-md btn text-lg"
+        className="btn-outline btn-sm btn text-sm md:btn-md md:text-lg"
       >
         <FaWhatsapp />
       </Link>
       <Link
         href="mailto:m.amirazmi@hotmail.com"
         target="_blank"
-        className="btn-ghost btn-md btn text-lg"
+        className="btn-outline btn-sm btn text-sm md:btn-md md:text-lg"
       >
         <FaEnvelope />
       </Link>
