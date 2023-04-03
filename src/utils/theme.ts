@@ -1,1 +1,1 @@
-export const themeConfig = { dark: 'dark', light: 'light' };
+export const themeConfig = { dark: 'black', light: 'lofi' };
