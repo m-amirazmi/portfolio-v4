@@ -1,7 +1,5 @@
-import { themeConfig } from '@/utils/theme';
 import { THeader } from '@/utils/types';
 import Link from 'next/link';
-import { HiSun, HiMoon } from 'react-icons/hi2';
 import { ThemeSwitcher } from '@/components/general/header/theme-switcher';
 
 export const Header: React.FC<THeader> = ({ theme, handleThemeChange }) => {
