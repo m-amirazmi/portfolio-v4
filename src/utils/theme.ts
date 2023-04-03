@@ -1,1 +1,1 @@
-export const themeConfig = { dark: 'halloween', light: 'emerald' };
+export const themeConfig = { dark: 'dark', light: 'light' };
