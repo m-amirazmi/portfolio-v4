@@ -10,26 +10,26 @@ export const Projects = () => {
           View All
         </Link>
       </div>
-      <div className="flex w-full flex-row flex-wrap gap-4">
-        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
+      <div className="flex w-full flex-row flex-wrap md:gap-4">
+        <div className="h-[350px] flex-[0_0_50%] pb-2 pr-2 md:flex-1 md:p-0">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/1"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_50%] pb-2 pl-2 md:flex-1 md:p-0">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/2"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_50%] pr-2 pt-2 md:flex-1 md:p-0">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/3"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_50%] pl-2 pt-2 md:flex-1 md:p-0">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/4"
