@@ -11,25 +11,25 @@ export const Projects = () => {
         </Link>
       </div>
       <div className="flex w-full flex-row flex-wrap gap-4">
-        <div className="h-[350px] flex-[0_0_48.2%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/1"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48.2%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/2"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48.2%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/3"
           ></Link>
         </div>
-        <div className="h-[350px] flex-[0_0_48.2%]  md:flex-1">
+        <div className="h-[350px] flex-[0_0_48%]  md:flex-1">
           <Link
             className="btn-outline btn h-full w-full hover:bg-opacity-20"
             href="/projects/4"
