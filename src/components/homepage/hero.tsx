@@ -7,9 +7,9 @@ export const Hero = () => {
         <h1 className="text-4xl font-bold md:text-6xl">Hi, I&apos;m Amir 👋</h1>
         <p>Welcome to my digital home.</p>
         <p className="max-w-lg">
-          I'm a Kuala Lumpur-based front-end developer who specializes in
-          creating applications using React and Next. Through this blog, I'll be
-          sharing my thoughts, opinions, and projects.
+          I&apos;m a Kuala Lumpur-based front-end developer who specializes in
+          creating applications using React and Next. Through this blog,
+          I&apos;ll be sharing my thoughts, opinions, and projects.
         </p>
         <div>
           <SocialLinks />
